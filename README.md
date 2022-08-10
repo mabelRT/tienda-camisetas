@@ -4,6 +4,6 @@
 
 
 ## Prototipo
-![](src/img/prototipo.png)
+![](img/prototipo.png)
 ## Link de pagina:
-https://iconos8.es/icons/set/linkedin
+https://iconos8.es/icons/
