@@ -4,6 +4,6 @@
 
 
 ## Prototipo
-![](img/prototipo.png)
+![](src/img/prototipo.png)
 ## Link de pagina:
 https://iconos8.es/icons/
